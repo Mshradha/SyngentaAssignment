@@ -1,0 +1,18 @@
+{
+    "organisation_1" : [
+        {
+            "id": 1,
+            "property" : ["India", "Maharashtra" , "Vidarabh"],
+            "region" : "Yavatmal",
+            "fields" : "address",
+            "cc_cycle" : "Kharif"
+            
+        },{
+            "id": 1,
+            "property" : ["India", "MP" , "Rewa"],
+            "region" : "keuthi",
+            "fields" : "address1"
+            
+        }
+    ]
+}
